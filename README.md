@@ -1,5 +1,7 @@
 # Combat-Simulator
 A simple boss generator
 
-In future, will be used to create smaller units, who will eventualy fight the boss unit.
-Scores of HP will be posted every 'round', and turns will be decided by an initiative score.
+Right now, it is a simple 1 v 1 combat system.
+Scoring could be better, but is sufficient for all intents and purposes presently. 
+
+Must include a heal ability, as well as a round tracker to keep track of recharge rates for things like healing and maybe even more cool powers...😈
