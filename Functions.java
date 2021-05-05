@@ -24,8 +24,10 @@ public class Functions
     }
     public static void endOfRound(Boss b, Soldier e)
     {
+        System.out.println(" ");
         System.out.println(b.sendName() + " is at " + b.sendHealth());
         System.out.println(e.sendName() + " is at " + e.sendHealth());
+        System.out.println(" ");
     }
     public static boolean compareInitiative(Boss b, Soldier e)
     {
